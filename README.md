@@ -1,4 +1,4 @@
-# Study of Demography: Detailed Topic List
+# Study of Population and Demography ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ## 1. Introduction to Demography
    - [Definition and Scope of Demography](#definition-and-scope-of-demography)
