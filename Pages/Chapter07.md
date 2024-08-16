@@ -28,7 +28,7 @@ Natural increase and doubling time are fundamental concepts for understanding th
 - **Definition:** Doubling time is the period it takes for a population to double in size, assuming a constant rate of natural increase.
 - **Calculation:** Doubling time can be estimated using the Rule of 70:
 
-  $\text{Doubling Time (in years)}$ = $\frac{70}{\text{Growth Rate }}(\%)$
+  $\text{Doubling Time (in years)}$ = $\frac{70}{\text{Growth Rate percent}}$
 
 - **Implications:** Rapid population doubling can strain resources and infrastructure, while longer doubling times may indicate slower growth or population stability.
 
