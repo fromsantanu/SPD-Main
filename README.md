@@ -15,7 +15,7 @@
 
 ## 3. Population Structure and Composition
    - [Age and Sex Structure](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
-   - [Population Pyramids and Dependency Ratios](#https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
+   - [Population Pyramids and Dependency Ratios](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
    - [Nuptiality](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
    - [Fertility, Mortality, and Migration Components](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
    - [Race, Ethnicity, and Demographic Differentials](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03.md)
