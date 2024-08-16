@@ -1,10 +1,10 @@
 # Study of Population and Demography ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 ## 1. Introduction to Demography
-   - [Definition and Scope of Demography](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
-   - [History and Evolution of Demographic Study](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
-   - [Theories of Population Growth](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
-   - [Importance of Demography in Social and Economic Planning](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
+   - [Definition and Scope of Demography](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01.md)
+   - [History and Evolution of Demographic Study](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01.md)
+   - [Theories of Population Growth](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01.md)
+   - [Importance of Demography in Social and Economic Planning](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01.md)
 
 ## 2. Sources of Demographic Data
    - [Census Data: Collection, Processing, and Interpretation](#census-data-collection-processing-and-interpretation)
