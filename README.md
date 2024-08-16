@@ -2,9 +2,9 @@
 
 ## 1. Introduction to Demography
    - [Definition and Scope of Demography](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
-   - [History and Evolution of Demographic Study](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter02)
-   - [Theories of Population Growth](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter03)
-   - [Importance of Demography in Social and Economic Planning](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter04)
+   - [History and Evolution of Demographic Study](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
+   - [Theories of Population Growth](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
+   - [Importance of Demography in Social and Economic Planning](https://github.com/fromsantanu/SPD-Main/blob/main/Pages/Chapter01)
 
 ## 2. Sources of Demographic Data
    - [Census Data: Collection, Processing, and Interpretation](#census-data-collection-processing-and-interpretation)
